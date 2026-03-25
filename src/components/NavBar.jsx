@@ -14,8 +14,7 @@ export default function NavBar({ active }) {
         <Navbar.Toggle aria-controls="navbarNav" />
         <Navbar.Collapse id="navbarNav">
           <Nav className="me-auto">
-            <Nav.Link as={Link} to="/our-approach" className={active === "our-approach" ? "active" : undefined}>Our Approach</Nav.Link>
-            <Nav.Link as={Link} to="/product" className={active === "product" ? "active" : undefined}>Product</Nav.Link>
+            <Nav.Link as={Link} to="/" className={active === "home" ? "active" : undefined}>Home</Nav.Link>
             <Nav.Link as={Link} to="/about-us" className={active === "about-us" ? "active" : undefined}>About Us</Nav.Link>
             <Nav.Link as={Link} to="/publications" className={active === "publications" ? "active" : undefined}>Publications</Nav.Link>
             <Nav.Link as={Link} to="/contact" className={active === "contact" ? "active" : undefined}>Contact Us</Nav.Link>

@@ -6,18 +6,17 @@ import OurApproach from './components/OurApproach'
 import Publications from './components/Publications'
 import Contact from './components/Contact'
 import Product from './components/Product'
+import Home from './components/Home';
 
 
 function App() {
   return (
     <div>
       <Routes>
-        <Route index element={<AboutUs />} />
         <Route path="about-us" element={<AboutUs />} />
-        <Route path="our-approach" element={<OurApproach />} />
+        <Route index element={<Home />} />
         <Route path="publications" element={<Publications />} />
         <Route path="contact" element={<Contact/>} />
-        <Route path="product" element={<Product/>} />
 
       </Routes>
     </div>

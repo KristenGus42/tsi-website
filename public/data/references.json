@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "authors": "Stovall R, Li R, Liew JW, Lui A, Patel S, Friedly J, Lin CY.",
+    "title": "Evaluating the performance and acceptability of an artificial intelligence digital health exercise platform in females with and without axial spondyloarthritis: a phase I study.",
+    "info": "Adv Rheumatol. 2026 Jan 30;66(1):17.",
+    "url": "https://link.springer.com/article/10.1186/s42358-026-00519-1"
+  },
+  {
+    "id": 2,
+    "authors": "Ehde DM, Simmons SB, Alschuler KN, Herring TE, Humbert AT, Robles SR, Ioseliani O, Landis K, Kavanagh LB, Lin CY.",
+    "title": "Increasing Physical Activity via Provider Support and Engagement Using a Digital Health Platform in Adults With Multiple Sclerosis: Protocol for a Randomized Controlled Trial.",
+    "info": "JMIR Res Protoc. 2025 Nov 21;14:e72213.",
+    "url": "https://doi.org/10.2196/72213"
+  },
+  {
+    "id": 3,
+    "authors": "Zhu A, Sher J, Li R, Ioseliani O, Cantor L, Brewer EG, Landis K, Bridges D, Munson SA, Hunter H, Lin C, Psutka SP.",
+    "title": "What motivates bladder cancer patients to be active? A qualitative study assessing attitudes towards physical activity and digital health technologies.",
+    "info": "Urol Oncol. 2025 Sep;43(9):522.e1-522.e8.",
+    "url": "https://doi.org/10.1016/j.urolonc.2025.05.002"
+  },
+  {
+    "id": 4,
+    "authors": "Sher J, Lewis CW, Lin CY.",
+    "title": "Using Wearable Technologies to Monitor Physical Activity and Exercise in Patients: A Narrative Review.",
+    "info": "Curr Sports Med Rep. 2024 Aug 1;23(8):284-289.",
+    "url": "https://doi.org/10.1249/JSR.0000000000001187"
+  },
+  {
+    "id": 5,
+    "authors": "Hunter H, Bennington-McKay N, Sher J, Psutka S, Lin CY.",
+    "title": "Emerging Role of Mobile Applications and Wearable Devices for Prehabilitation in Urologic Oncology.",
+    "info": "European Urology Focus. 2023.",
+    "url": "https://doi.org/10.1016/j.euf.2023.10.010"
+  },
+  {
+    "id": 6,
+    "authors": "Montagnino J, Hou G, Lim S, Ciol M, Lin CY.",
+    "title": "Physical Activity Vital Sign in Patients with Multiple Sclerosis.",
+    "info": "PM&R Journal. 2023 Mar 17.",
+    "url": "https://doi.org/10.1002/pmrj.12971"
+  },
+  {
+    "id": 7,
+    "authors": "Lin CY, Ball T, McDonald VF, Gentile N, Humbert AT.",
+    "title": "Associations Between Physical Activity Vital Sign and Healthcare Utilization in a Healthcare System, 2018-2020.",
+    "info": "Journal of Physical Activity & Health. 2022 Dec 8;1-7.",
+    "url": "https://doi.org/10.1123/jpah.2022-0266"
+  },
+  {
+    "id": 8,
+    "authors": "Sederberg M, Tarkhan A, Ray LS, Lee ES, Lin CY.",
+    "title": "Physical Activity in Adults with an Amputation as Assessed with a Self-Reported Exercise Vital Sign.",
+    "info": "PM&R. 2020 Jan 27.",
+    "url": "https://doi.org/10.1002/pmrj.12333"
+  }
+]
