@@ -2,10 +2,8 @@ import { Routes, Route } from 'react-router-dom';
 
 // Import Page Components 
 import AboutUs from './components/AboutUs'
-import OurApproach from './components/OurApproach'
 import Publications from './components/Publications'
 import Contact from './components/Contact'
-import Product from './components/Product'
 import Home from './components/Home';
 
 

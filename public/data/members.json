@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "name": "Cindy Lin, M.D.",
+        "role": "Director", 
+        "brief": "Dr. Lin, MD, FACSM, FAAPM&R is a UW Clinical Professor and the first holder of the Endowed Professorship in the Department of Rehabilitation Medicine, as well as a sports medicine physician.",
+        "full": "TODO", 
+        "img": "images/members/cindy-lin.png"
+    }, 
+    {
+        "id": "2",
+        "name": "Scott Polovitch-Davis, MNPL",
+        "role": "Associate Director", 
+        "brief": "Scott serves as Associate Director at The Sports Institute, where he develops and shepherds the Institute's strategic plan, provides administrative and leadership support to staff and projects.",
+        "full": "TODO", 
+        "img": "images/members/scott-polovitch-davis.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Christine Mac Donald, Ph.D.",
+        "role": "Research Director", 
+        "brief": "Dr. Mac Donald is a professor of neurological surgery at the UW and holds the James and Gaye Pigott Sports Health and Safety Endowed Chair.",
+        "full": "TODO", 
+        "img": "images/members/christine-macdonald.jpg"
+    },    
+    {
+        "id": "4",
+        "name": "Theresa Kehne",
+        "role": "Research Coordinator", 
+        "brief": "Theresa is the Institute's lead Research Coordinator who helps manage and support TSI's research portfolio.",
+        "full": "TODO", 
+        "img": "images/members/theresa-kehne.png"
+    },
+    {
+        "id": "5",
+        "name": "Otari Ioseliani, M.S.",
+        "role": "Software Engineer", 
+        "brief": "Otari Ioseliani joined the University of Washington in 2020 and is currently a Software Engineer at the Ubiquitous Computing Lab in the Paul G. Allen School of Computer Science and Engineering.",
+        "full": "TODO", 
+        "img": "images/members/otari-ioseliani.jpg"
+    }
+
+]
