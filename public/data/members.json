@@ -17,12 +17,12 @@
     },
     {
         "id": "3",
-        "name": "Christine Mac Donald, Ph.D.",
-        "role": "Research Director", 
-        "brief": "Dr. Mac Donald is a professor of neurological surgery at the UW and holds the James and Gaye Pigott Sports Health and Safety Endowed Chair.",
+        "name": "Otari Ioseliani, M.S.",
+        "role": "Software Engineer", 
+        "brief": "Otari Ioseliani joined the University of Washington in 2020 and is currently a Software Engineer at the Ubiquitous Computing Lab in the Paul G. Allen School of Computer Science and Engineering.",
         "full": "TODO", 
-        "img": "images/members/christine-macdonald.jpg"
-    },    
+        "img": "images/members/otari-ioseliani.jpg"
+    },   
     {
         "id": "4",
         "name": "Theresa Kehne",
@@ -30,14 +30,6 @@
         "brief": "Theresa is the Institute's lead Research Coordinator who helps manage and support TSI's research portfolio.",
         "full": "TODO", 
         "img": "images/members/theresa-kehne.png"
-    },
-    {
-        "id": "5",
-        "name": "Otari Ioseliani, M.S.",
-        "role": "Software Engineer", 
-        "brief": "Otari Ioseliani joined the University of Washington in 2020 and is currently a Software Engineer at the Ubiquitous Computing Lab in the Paul G. Allen School of Computer Science and Engineering.",
-        "full": "TODO", 
-        "img": "images/members/otari-ioseliani.jpg"
     }
 
 ]
