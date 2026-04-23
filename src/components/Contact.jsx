@@ -11,7 +11,7 @@ export default function Contact() {
         <HeaderBanner title="Contact Us" />
         <main>
             <div className="d-flex justify-content-evenly">
-                <div>
+                <div className="text-center">
                   <h3><i className="fa fa-envelope-o"></i>Email</h3>
                   <p>exerciserx@uw.edu</p>
                 </div>

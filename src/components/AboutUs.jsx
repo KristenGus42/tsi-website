@@ -55,13 +55,13 @@ export function Member(props) {
     return (
     <>
         <div className="col d-flex">
-            <div className="card h-100 w-100">
-            <img className="card-img-top" src={img}  alt="Card image cap" />
-            <div className="card-body">
-                <h5 className="card-title">{name}</h5>
-                <h6 className="card-subtitle mb-2 text-muted">{role}</h6>
-                <p className="card-text">{brief}</p>
-            </div>
+            <div className="member-card card h-100 w-100">
+                <img className="card-img-top" src={img}  alt="Card image cap" />
+                <div className="card-body">
+                    <h5 className="card-title">{name}</h5>
+                    <h6 className="card-subtitle mb-2 text-muted">{role}</h6>
+                    <p className="card-text">{brief}</p>
+                </div>
             </div>
         </div>
     </>
